@@ -8,7 +8,7 @@
 
 // DistÃ¢ncia ideal de deteccao considerando a angulacao o dos sonares
 // Ajuste o valor abaixo conforme necessario (em centimetros)
-#define DISTANCIA_ALVO 30
+#define DISTANCIA_ALVO 35
 task main()
 {
     wait1Msec(5000);
